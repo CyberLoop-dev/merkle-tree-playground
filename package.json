@@ -1,0 +1,14 @@
+{
+  "name": "merkle-tree-playground",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Build SHA-256 Merkle trees from local text leaves and generate verifiable inclusion proofs.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
